@@ -1,3 +1,7 @@
 const pessoaNome:string = 'Lucas'
 
-console.log(pessoaNome);
+let t:string = "20.1";
+
+let num:number = parseInt(t);
+
+console.log(typeof(num));
